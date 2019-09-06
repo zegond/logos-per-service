@@ -1,4 +1,4 @@
-# لوگوهای بانک و درگاه‌های پرداخت ایرانی
+# لوگوهای شرکت‌های سرویس دهنده ایرانی
 
 ![LogoS-cover-Iran-Service-Github.jpg](https://s3.gifyu.com/images/LogoS-cover-Iran-Service-Github.jpg)
 
