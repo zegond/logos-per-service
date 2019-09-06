@@ -3,7 +3,7 @@
 ![LogoS-cover-Iran-Service-Github.jpg](https://s3.gifyu.com/images/LogoS-cover-Iran-Service-Github.jpg)
 
 LogoS is a design project about logos, In clean vector and organized as libraries to use by designers.
-This one includes logos of main service companies of Iran.(نسخه فارسی را [اینجا](https://github.com/zegond/logos-per-banks/blob/master/README-fa.md) بخوانید)
+This one includes logos of main service companies of Iran.(نسخه فارسی را [اینجا](https://github.com/zegond/logos-per-service/blob/master/README-fa.md) بخوانید)
 
 ## License
 This project is available under CC0 1.0 Universal. In short:
