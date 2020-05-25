@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # لوگوهای شرکت‌های سرویس دهنده ایرانی
 
 ![LogoS-cover-Iran-Service-Github.jpg](https://s3.gifyu.com/images/LogoS-cover-Iran-Service-Github.jpg)
@@ -140,3 +142,5 @@ CC0 1.0 Universal License
 ![2019-07-25_16-59-08.jpg](https://s3.gifyu.com/images/2019-07-25_16-59-08.jpg)
 
 از دقت و توجه شما سپاسگزارم. امیدوارم این فایل مورد استفاده‌تان قرار بگیرد :)
+
+</div>
